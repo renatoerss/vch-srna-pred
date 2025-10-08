@@ -5,6 +5,11 @@
 ## Summary
 Short, parameterized Colab workflow to detect and compare sRNA-like intergenic peaks in strand-specific RNA-seq bigWigs for Vibrio cholerae.
 
+## 🚀 Run on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoerss/vch-srna-pred/blob/main/vch-srna-detection.ipynb)
+
+
 ## Why this exists
 Implements scripted QC + masking + intergenic scanning + prominence/area/width filters + nearest TSS, avoiding manual steps.
 
