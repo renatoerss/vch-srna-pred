@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "sRNA-like intergenic peak detection (CRP vs K52Q) for Vibrio cholerae"
+message: "If you use this notebook or its outputs, please cite it as below."
+type: software
+abstract: >
+  Google Colab notebook that performs scripted QC, masking (CDS/rRNA/tRNA),
+  intergenic complement construction, sRNA-like peak detection with prominence/width/area
+  thresholds, and nearest TSS annotation for strand-specific RNA-seq bigWigs of Vibrio cholerae
+  (CRP vs K52Q). All parameters are centralized for reproducibility.
+authors:
+  - family-names: "Santos"
+    given-names: "Renato"
+    affiliation: "Boston Children's Hospital"
+repository-code: "https://github.com/renatoerss/vch-srna-pred"
+license: "MIT"
+version: "v0.1.0"
+date-released: "2025-10-08"
+keywords:
+  - RNA-seq
+  - bigWig
+  - Vibrio cholerae
+  - sRNA
+  - CRP
