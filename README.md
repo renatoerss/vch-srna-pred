@@ -7,8 +7,7 @@ Short, parameterized Colab workflow to detect and compare sRNA-like intergenic p
 
 ## 🚀 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoerss/vch-srna-pred/blob/main/vch-srna-detection.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoerss/vch-srna-pred/blob/main/vch-srna-pred.ipynb)
 
 ## Why this exists
 Implements scripted QC + masking + intergenic scanning + prominence/area/width filters + nearest TSS, avoiding manual steps.
