@@ -28,7 +28,7 @@ See the “Outputs” section in the notebook.
 - See also Sandve et al. 2013; Wilson et al. 2017; FAIR Principles. (Links in notebook.)
 
 ## License
-MIT (or BSD-3-Clause). See `LICENSE`.
+MIT. See `LICENSE`.
 
 ## Citation
 See `CITATION.cff`.
